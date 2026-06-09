@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm a Computer Science student passionate about coding and problem solving.<br><br>💻 I work with C++, HTML, CSS and I'm currently learning Data Structures & Algorithms.<br>🚀 I enjoy building projects like chatbots and web UIs.<br>📚 Currently exploring Python and Data Science.<br>🎯 My goal is to become a skilled software developer and build impactful tech projects.<br>
+Hi 👋, I'm a Computer Science student passionate about coding and problem solving.<br><br>💻 I work with C++, HTML, CSS and I'm currently learning Data Structures & Algorithms.<br>🚀 I enjoy building projects.<br>📚 Currently exploring Python and Data Science.<br>🎯 My goal is to become a skilled software developer and build impactful tech projects.<br>
 
 
 # 💻 Tech Stack:
